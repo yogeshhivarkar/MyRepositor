@@ -1,0 +1,724 @@
+yogesh@yogesh-HP-Notebook:/var/lib/tomcat8/conf$ chmod 777 web.xml/
+chmod: cannot access 'web.xml/': Not a directory
+yogesh@yogesh-HP-Notebook:/var/lib/tomcat8/conf$ sudo chmod 777 web.xml
+[sudo] password for yogesh: 
+yogesh@yogesh-HP-Notebook:/var/lib/tomcat8/conf$ history
+    1  man sudo_root
+    2  sudo apt-get install vlc
+    3  su 
+    4  sudo apt-get install vlc
+    5  cd ..
+    6  cd 
+    7  ping 172.16.100.1
+    8  ping 192.168.34.250
+    9  ping 172.16.100.1
+   10  NetworkManager
+   11  /
+   12  su 
+   13  su
+   14  sudo lshw -class network
+   15  sudo gedit /etc/pm/config.d/config
+   16  echo "options  RTL8723BE fwlps=N" | sudo tee /etc/modprobe.d/RTL8723BE.conf
+   17  reboot
+   18  tar -xzvf jdk-8u181-linux-x64.tar.gz 
+   19  sudo  mkdir /usr/local/java
+   20  cd
+   21  cd Downloads/
+   22  sudo mv jdk1.8.0_181 /usr/local/java
+   23  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/jdk1.8.0_181/bin/java" 1
+   24  sudo update-alternatives --install "/usr/bin/javac" "javac" "/usr/local/java/jdk1.8.0_181/bin/javac" 1
+   25  sudo update-alternatives --install "/usr/bin/javaws" "javaws" "/usr/local/java/jdk1.8.0_181/bin/javaws" 1
+   26  sudo gedit ~/.bashrc
+   27  java -version
+   28  ls
+   29  cd android-studio/
+   30  ls
+   31  cd bin
+   32  ls
+   33  sudo chmod 777 -R studio.sh
+   34  ./studio.sh
+   35  cd MT7630E-release/
+   36  ls
+   37  sudo ./install
+   38  sudo .\install
+   39  sudo ./install
+   40  cd /home/yogesh/Desktop/MT7630E.release
+   41  sudo cd /home/yogesh/Desktop/MT7630E.release
+   42  cd MT7630E-release/
+   43  ./install
+   44  sudo ./install
+   45  sudo ./install.sh
+   46  sudo ./install
+   47  cd /home/yogesh/Desktop/MT7630E-release
+   48  sudo ./install
+   49  cd /etc
+   50  ls
+   51  sudo nano resolve.conf
+   52  sudo service network-manager restart
+   53  network
+   54  restart
+   55  reboot
+   56  sudo ./install
+   57  service NetworkManager
+   58  sudo  service NetworkManager
+   59  sudo  service NetworkManager network
+   60  NetworkManager
+   61  su 
+   62  sudo  NetworkManager
+   63  service nework
+   64  service network restart
+   65  sudo /etc/passwd
+   66  ll
+   67  sudo apt-get install vlc
+   68  shutdown -h
+   69  /.studio.sh
+   70  ./studio.sh
+   71  ./studio.sh 
+   72  su 
+   73  reboot
+   74  wifi 
+   75  sudo apt install tlp
+   76  tlp
+   77  crontab
+   78  /etc/NetworkManager/dispatcher.d/pre-up.d
+   79  sudo  /etc/NetworkManager/dispatcher.d/pre-up.d
+   80  man tl[
+   81  man tlp
+   82  man wifi
+   83  man wifimanager
+   84  man wifiservice
+   85  man 
+   86  y
+   87  man
+   88  man network
+   89  man NetworkManager
+   90  lshw -C network
+   91  lspci
+   92  lsusb
+   93  tail -f /var/log/messages
+   94  sudo tail -f /var/log/messages
+   95  sudo apt-get install vlc
+   96  sudo apt-get install chrome
+   97  cd Downloads/
+   98  ll
+   99  sudo dpkg -i  google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  100  sudo apt-get -f
+  101  sudo apt-get install -f
+  102  sudo dpkg -i  google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  103  exit
+  104  python --version
+  105  sudo add-apt-repository ppa:webupd8team/java
+  106  cls
+  107  clear
+  108  sudo apt-get update
+  109  clear
+  110  sudo apt-get install oracle-java8-installer
+  111  wifi
+  112  sudo apt intall tlp
+  113  sudo apt install tlp
+  114  wifi
+  115  sudo apt install tlp
+  116  chmod 777 -R Firebase.rar
+  117  chmod 777 -R  Firebase3.rar
+  118  cd Downloads
+  119  su /
+  120  su
+  121  /
+  122  ls
+  123  ll
+  124  sudo  chmod 777 Firebase.tar 
+  125  sudo  chmod 777 Firebase.rar 
+  126  sudo  chmod 777 -R  Firebase.tar 
+  127  sudo  chmod 777 -R  Firebase.rar 
+  128  sudo  chmod 777 -R  Firebase3.rar 
+  129  ifconfig
+  130  ifconfig -a
+  131  sudo  ifconfig wlan0 up
+  132  ifconfig wlan0
+  133  cd /etc
+  134  ll
+  135  sudo nano  resolve.conf
+  136  sudo service network-manager restart
+  137  sudo apt-get install unrar
+  138  sudo apt-get purge google-chrome-stable
+  139  cd Downloads
+  140  sudo apt-get  install google-chrome-stable
+  141  ll
+  142  sudo apt-get  install google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  143  x=open("myfile.txt")
+  144  x=open("myfile.txt");
+  145  x=open('myfile.txt');
+  146  x=open(myfile.txt);
+  147  x=open('myfile.txt')
+  148  python
+  149  cd Downloads/
+  150  ll
+  151  sudo apt-get install  google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  152  cd downloads
+  153  cd Downloads
+  154  ll
+  155  sudo get-apt install google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  156  root
+  157  sudo apt-get  install google-chrome-42-0-2311-90-64-bit-multi-ubu.deb
+  158  sudo nmcli dev
+  159  sudo nm-tool
+  160  sudo lshw -C network
+  161  lspci
+  162  sudo lspci
+  163  cd Downloads 
+  164  ll
+  165  ls
+  166  ll -a
+  167  gedit
+  168  su
+  169  cd ..
+  170  sudo lshw
+  171  chkconfig
+  172  chkconfig 192.168.34.250
+  173  sudo  chkconfig 
+  174  ll
+  175  sudo apt-get install  google-chrome-stable_current_amd64.deb
+  176  sudo apt-get install update
+  177  lsw
+  178  sudo apt install suckless-tools
+  179  lshw
+  180  sudo apt-get update
+  181  sudo apt-get install unrar
+  182  ll
+  183  ls
+  184  cd android
+  185  cd android-studio
+  186  ll
+  187  cd bin/
+  188  ll
+  189  ./studio.sh
+  190  mkdir yog
+  191  sudo mkdir yog
+  192  cd  yog
+  193  touch yog.html
+  194  sudo  touch yog.html
+  195  history
+  196  python --version
+  197  sudo add-apt-repository ppa:webupd8team/java
+  198  sudo apt-get update
+  199  sudo add-apt-repository ppa:webupd8team/java
+  200  clear
+  201  sudo apt-get install oracle-java8-installer
+  202  sudo apt-get install mysql-server
+  203  sudo apt-get update
+  204  history
+  205  sudo apt-get update
+  206  sudo  mkdir balaji
+  207  chmod 777 balaji
+  208  chmod 777 balaji/
+  209  cd balaji/
+  210  chmod 777 balaji/
+  211  cd ..
+  212  chmod 777 balaji/
+  213  touch yog.html
+  214  hyougesh hivrkar
+  215  history
+  216  cls
+  217  clear
+  218  sudo apt-get update
+  219  sudo add-apt-repository ppa:webupd8team/java
+  220  sudo apt-get install oracle-java8-installer
+  221  del yog
+  222  man delete
+  223  man del
+  224  sudo chmod 777
+  225  man chmod
+  226  sudo apt-get update
+  227  sudo chmod 777 home
+  228  cd home
+  229  sudo chmod 777 yog.html
+  230  delete yog.html
+  231  man delete
+  232  remove yog.html
+  233  rm yog.html
+  234  sudo rm yog.html
+  235  sudo rm yog
+  236  sudo rm /yog
+  237  sudo rm yo/g
+  238  sudo rm yog/
+  239  man rm
+  240  sudo rm -d  yog
+  241  sudo rm -d  balaji
+  242  rm yog.html
+  243  sudo  rm yog.html
+  244  cd ..
+  245  sudo rm -d yog
+  246  sudo chmod 777 root
+  247  sudo chmod 777 computer
+  248  chmod 777 yog.html
+  249  sudo chmod 777 yog.html
+  250  sudo NetworkManager
+  251  sudo NetworkManager service
+  252  ls
+  253  cd pudlic
+  254  cd public
+  255  ls -a
+  256  ifconfig
+  257  ping 
+  258  firewall
+  259  man firewall
+  260  ifconfig
+  261  python
+  262  python --version
+  263  ping 172.16.100.1
+  264  sudo NetworkManager service
+  265  network
+  266  sudo NetworkManager service restart
+  267  network restart
+  268  tar -xvzf pycharm-community-2018.2.tar.gz 
+  269  ls
+  270  cd /pycharm-community-2018.2
+  271  cd pycharm-community-2018.2/
+  272  ls
+  273  cd bin/
+  274  ls
+  275  ./pycharm.sh
+  276  ls
+  277  cd pycharm-professional-2018.2.1.tar.gz
+  278  cd bin/
+  279  ls
+  280  ./pycharm.sh
+  281  ls
+  282  ./pycharm.sh
+  283  cd pycharm-2018.2.1/
+  284  ls
+  285  cd bin
+  286  ls
+  287  ./pycharm.sh
+  288  sudo -xvzf Django-2.1.tar.gz
+  289  history
+  290  tar -xvzf Django-2.1.tar.gz 
+  291  easy install django
+  292  sudo  easy install django
+  293  easy install django
+  294  python setup.py install
+  295  easy_install django
+  296  sudo apt install python-setuptools
+  297  easy-install python
+  298  easy install django
+  299  easy-install django
+  300  easy_install django
+  301  easy_install --version
+  302  sudo apt install python-setuptools
+  303  python -version
+  304  sudo python --version
+  305  sudo python -version
+  306  easy-install Django
+  307  easy_install Django
+  308  sudo apt install python-setuptools
+  309  pip install django
+  310  sudo apt-get update
+  311  chmod 777 /etc
+  312  sudo chmod 777 /etc
+  313  sudo chmod 777 etc/
+  314  sudo apt-get update
+  315  apt-cdrom
+  316  apt-secure(8)
+  317  apt-secure
+  318  apt-secure()
+  319  nano
+  320  sudo chmod 777 dpkg
+  321  sudo apt-get update
+  322  sudo apt-get update
+  323  history
+  324  sudo apt install python-setuptools
+  325  pip install django
+  326  sudo apt install python-pip
+  327  sudo python -version
+  328  python setup.py install
+  329  sudo apt-get install mysql-server
+  330  sudo apt-get update
+  331  sudo apt-get install apache2
+  332  easy_install Django
+  333  sudo apt-get python-setuptools
+  334  sudo apt install python-setuptools
+  335  sudo get install python-setuptools
+  336  sudo apt install python-setuptools
+  337  sudo rm /var/lib/apt/lists/lock
+  338  sudo rm /var/cache/apt/archives/lock
+  339  sudo rm /var/lib/dpkg/lock
+  340  sudo dpkg --configure -a
+  341  sudo systemctl stop apt-daily.timer
+  342  sudo systemctl start apt-daily.timer
+  343  pgrep apt-get -a
+  344  12127 apt-get update
+  345  pgrep -a apt-get
+  346  12127 apt-get update
+  347  sudo kill -9 12127
+  348  sudo rm /var/lib/dpkg/lock
+  349  easy_install Django
+  350  sudo apt-get update
+  351  easy_install Django
+  352  sudo rm /var/lib/dpkg/lock
+  353  12127 apt-get update
+  354  sudo apt-get install apache2
+  355  sudo systemctl start apt-daily.timer
+  356  sudo apt-get install apache2
+  357  sudo apt-get update
+  358  sudo apt-get install apache2
+  359  pip install Django
+  360  easy-install Django
+  361  easy_install Django
+  362  sudo easy_install Django
+  363  sudo python -m pip install --upgrade pip setuptools
+  364  sudo python -m pip install django
+  365  python --version
+  366  sudo apt-get update sudo apt-get install python3.5
+  367  sudo apt-get update sudo
+  368  sudo apt-get update
+  369  sudo update-alternatives --install 
+  370  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5
+  371  sudo update-alternatives --help
+  372  sudo update-alternatives --version
+  373  easy_install Django
+  374  python --version
+  375  cd Downloads/
+  376  mkdir python 
+  377  cd python/
+  378  wget https://www.python.org/ftp/python/3.5.6/Python-3.5.6.tgz
+  379  tar -xvf Python-3.5.6.tgz 
+  380  cd Python-3.5.6/
+  381  ./configure
+  382  ./configure --enable-optimiations
+  383  make
+  384  make install
+  385  /usr/local/bin/py
+  386  sudo make install
+  387  /usr/local/bin/py
+  388  sudo /usr/local/bin/py
+  389  /usr/local/bin/pyhton3.5
+  390  python --version
+  391  /usr/local/bin/py
+  392  cd /usr/local/bin/
+  393  /python3.5
+  394  python3.5
+  395  chmod 777  /usr/local/bin/
+  396  sudo chmod 777  /usr/local/bin/
+  397  sudo chmod 777  /usr/local/bin/python3.5
+  398  python
+  399  sudo apt-get install libssl-dev openssl
+  400  sudo dpkg --configure -a
+  401  easy_install --version
+  402  python setup.py install
+  403  sudo python setup.py install
+  404  sudo python3.5 setup.py install
+  405  cd ..
+  406  sudo python setup.py install
+  407  sudo apt-get install python-setuptools
+  408  sudo apt-get install python3.5-setuptools
+  409  python --version
+  410  sudo yum python-setuptools
+  411  sudo apt-get install python-setuptools
+  412  easy_install Django
+  413  sudo apt-get install python3-setuptools
+  414  easy_install Django
+  415  chmod 777 /usr/local/lib/python3.5/dist-packages/test-easy-install-29541.pth
+  416  easy_install --version
+  417  easy_install Django
+  418  ping 172.16.100.1
+  419  ping 172.16.100.2
+  420  sudo apt-get update
+  421  python --version
+  422  sudo python -m pip install django
+  423  sudo update-alternatives --version
+  424  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.5
+  425  sudo easy_install Django
+  426  python -m pip install --upgrade pip setuptools
+  427  python manage.py runserver
+  428  python manage.py migration
+  429  python manage.py migrate
+  430  sudo apt-get install oracle-java8-installer
+  431  sudo apt-get install mysql-server
+  432  /etc/mysql/mysql.cnf
+  433  sudo /etc/mysql/mysql.cnf
+  434  chmod 777 /etc/mysql/mysql.cnf
+  435  sudo chmod 777 /etc/mysql/mysql.cnf
+  436  mysql -u root -p
+  437  sudo apt-get install apache2
+  438  sudo apt-get install php5
+  439  sudo aptitude purge `dpkg -l | grep php| awk '{print $2}' |tr "\n" " "`
+  440  dpkg -l | grep php| awk '{print $2}' |tr "\n" " "
+  441  dpkg -l | grep php| awk 
+  442  sudo add-apt-repository ppa:ondrej/php
+  443  sudo apt-get update
+  444  sudo apt-get install php5.6
+  445  sudo /etc/init.d/apache2 restart
+  446  sudo nano /var/www/html/test.php
+  447  sudo apt-get install phpmyadmin
+  448  sudo apt-get update
+  449  gedit var/www/html/one.php
+  450  sudo chmod 777 var/www/html/one.php
+  451  sudo chmod 777 var/www/html/
+  452  cd /var/www/html
+  453  touch one.php
+  454  sudo touch one.php
+  455  gedit one.php
+  456  sudo chmod 777 one.php
+  457  gedit one.php
+  458  sudo chmod 777 var/www/html/
+  459  chmod 777 /etc
+  460  sudo  chmod 777 /etc
+  461  sudo chmod 777 /etc/php/php/php5.6/apache2/php.ini
+  462  cd /etc/php/php/php5.6/apache2/php.ini
+  463  sudo cd /etc/php/php/php5.6/apache2/php.ini
+  464  sudo  /etc/php/php/php5.6/apache2/php.ini
+  465  sudo gedit /etc/php5/apache2/php.init
+  466  sudo nano /etc/php5/apache2/php.init
+  467  ls
+  468  ls -a
+  469  sudo -u roo -p
+  470  sudo -u root -p
+  471  mysql -u root -p
+  472  root
+  473  mysql -u root -p
+  474  easy_install Django
+  475  pyhton --version 
+  476  easy_install Django
+  477  sudo easy_install Django
+  478  python --version
+  479  easy_install Django
+  480  python manage.py startapp regis
+  481  python manage.py migrate
+  482  python  manage.py
+  483  python  manage.py runserver
+  484  python -m django --version
+  485  easy_installDjango
+  486  easy_install Django
+  487  python manage.py runserver
+  488  python manage.py runserver
+  489  python manage.py migration
+  490  python manage.py migrate
+  491  pyhton mange.py runserver
+  492  python mange.py runserver
+  493  python manage.py runserver
+  494  ls -l
+  495  ls -atouch yogesh
+  496  touch ypgesh
+  497  ls ypgesh 
+  498  echo ghjkfgkj
+  499  vim ypgesh 
+  500  vim /etc/passwd
+  501  python manage.py migrate
+  502  python django-admin.py
+  503  sudo  python django-admin.py
+  504  sudo  django-admin.py
+  505  sudo python django-admin.py
+  506  python manage.py startapps second
+  507  python manage.py startapp second
+  508  python manage.py runserver 7000
+  509  python manage.py runserver
+  510  kill -9 3438
+  511  sudo fuser -k 8000/tcp
+  512  kill -9 6994
+  513  sudo  kill -9 6994
+  514  python manage.py runserver
+  515  python manage.py makemigration
+  516  python manage.py makemigrations
+  517  python manage.py migrate
+  518  fdfd
+  519  kill -9 PID
+  520  sudo kill -9 PID
+  521  sudo kill -9 6599
+  522  python manage.py createsuperuser
+  523  python manage.py runserver
+  524  pip install --upgrade
+  525  python3 -m install --upgrade pip setuptools
+  526  apt-get install python3-venv
+  527  sudo apt-get install python3-venv
+  528  sudo mkdir djangoenv
+  529  sudo cd djangoenv
+  530  python3 -m venv djangoenv
+  531  sudo source djangoenv/bin/activate
+  532  pip install django
+  533  python -m pip install --upgrade pip setuptools
+  534  python -m pip install django
+  535  sudo python -m install --upgrade pip setuptools
+  536  sudo python3 -m install --upgrade pip setuptools
+  537  pip install --upgrade
+  538  python manage.py runserver
+  539  python mamange.py createsuperuser
+  540  python manage.py createsuperuser
+  541  python manage.py migrate
+  542  python manage.py runserver
+  543  sudo apt install python-pip
+  544  python manage.py runserver
+  545  python manage.py shell
+  546  sudo   python manage.py shell
+  547  mysql -u root -p
+  548  python manage.py makemigrations
+  549  sudo pip install mysql-python
+  550  sudo pip install --upgrade pip
+  551  sudo pip install mysql-python
+  552  pip install mysqlclient
+  553  sudo apt-get install python-mysqldb
+  554  mysql -u root -p
+  555  mysql -u root
+  556  sudo  mysql -u root
+  557  sudo  mysql -u root -p
+  558  pip list
+  559  pip install mysqlclient
+  560  django-admin dbshell
+  561  sudo apt install python-django-common
+  562  django-admin dbshell
+  563  django-admin dbshell
+  564  python manage.py createsuperuser
+  565  python manage.py makemigrations
+  566  python manage.pycreatesuperuser
+  567  python manage.py createsuperuser
+  568  python manage.py runserver
+  569  vim apache2.conf
+  570  sudo vim apache2.conf
+  571  sudo gedit apache2.conf
+  572  sudo /etc/init.d/apache2 restart
+  573  sudo apt-get install phpmyadmin
+  574  nano /etc/php5/apache2/php.init
+  575  nano /etc/php5/apache2/php.ini
+  576  nano /etc/php5.6/apache2/php.ini
+  577  sudo nano /etc/php5.6/apache2/php.ini
+  578  sudo nano /etc/php5/apache2/php.ini
+  579  chmod 777 /etc
+  580  sudo  chmod 777 /etc
+  581  sudo nano /etc/php5/apache2/php.ini
+  582  sudo nano /etc/php5.6/apache2/php.ini
+  583  nano /etc/php5/apache2/php.ini
+  584  sudo /etc/init.d/apache2 restart
+  585  nano /etc/apache2/apache.conf
+  586  sudo  nano /etc/apache2/apache.conf
+  587  sudo  gedit /etc/apache2/apache.conf
+  588  history
+  589  root
+  590  sudo  mysql -u root
+  591  sudo mysql -p -u root
+  592  nano /etc/apache2/apache.conf
+  593  sudo nano /etc/apache2/apache.conf
+  594  sudo chmod 777 php.ini/
+  595  sudo chmod 777 php.ini
+  596  sudo chmod 777 apache2.conf
+  597  sudo /etc/init.d/apache2 restart
+  598  sudo a2enmod xxx.load
+  599  sudo /etc/init.d/apache2 restart
+  600  sudo /etc/init.d/apache2 restart
+  601  sudo chmod 777 /phpmyadmin
+  602  sudo chmod 777 phpmyadmin/
+  603  cd phpmyadmin/
+  604  sudo chmod 777 apache.conf
+  605  sudo apt-get php-gettext
+  606  sudo apt-get install php-gettext
+  607  sudo /etc/init.d/apache2 restart
+  608  sudo in -s /usr/share/phpmyadmin /var/www
+  609  sudo ln -s /usr/share/phpmyadmin /var/www
+  610  sudo /etc/init.d/apache2 restart
+  611  sudo  apt-get install phpmyadmin
+  612  sudo /etc/init.d/apache2 restart
+  613  sudo apt-get install php5.6-mbstring
+  614  sudo service apache2 restart
+  615  sudo /etc/init.d/apache2 restart
+  616  sudo chmod 777 html/
+  617  sudo chmod 777 www/
+  618  sudo apt-get update
+  619  sudo cp /etc/apt/sources.list ~/ 
+  620  sudo wget "http://pastebin.com/raw.php?i=uzhrtg5M" -O /etc/apt/sources.list
+  621  sudo apt-get update
+  622  sudo rm /etc/apt/sources.list.d/ubuntu-extras.list
+  623  sudo apt-get update
+  624  sudo apt-get install libpcap-dev libpq-dev
+  625  sudo  python manage.py createsuperuser 
+  626  sudo apt-get install libmysqlclient16-dev
+  627  sudo apt-get install python-pip python-dev mysql-server libmysqlclient-dev
+  628  python manage.py createsuperuser
+  629  python manage.py  makemigrations
+  630  python manage.py migrate
+  631  python manage.py runserver
+  632  chmod 777 index.html
+  633  sudo chmod 777 index.html
+  634  python random.py
+  635  ls
+  636  cd Desktop/
+  637  ls
+  638  python random.py
+  639  python ran1.py
+  640  sudo /etc/init.d/apache2 restart
+  641  cd ..
+  642  sudo apt-get install php-mysqlnd
+  643  sudo apt-get install php5.6-mysqlnd
+  644  sudo /etc/init.d/apache2 restart
+  645  sudo /etc/init.d/mysql restart
+  646  history
+  647  sudo apt-get install snapd snapd-xdg-open
+  648  sudo snap install notepad-plus-plus
+  649  java --version
+  650  java -version
+  651  suo apt-get update
+  652  sudo apt-get update
+  653  sudo apt-get install tomcat8
+  654  sudo apt-get update
+  655  sudo apt-get install tomcat8
+  656  sudo apt-get install tomcat8-docs tomcat8-examples tomcat8-admin
+  657  systemctl restart tomcat8
+  658  systemctl status tomcat8
+  659  clear 
+  660  ifconfig
+  661  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  662  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  663  systemctl restart tomcat8
+  664  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  665  systemctl restart tomcat8
+  666  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  667  systemctl restart tomcat8
+  668  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  669  systemctl restart tomcat8
+  670  sudo systemctl restart tomcat8
+  671  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  672  sudo systemctl restart tomcat8
+  673  sudo  nano /var/lib/tomcat8/conf
+  674  cd   nano /var/lib/tomcat8/conf
+  675  cd   nano /var/lib/tomcat8/conf/
+  676  sudo  /var/lib/tomcat8/conf/
+  677  cd  /var/lib/tomcat8/conf/
+  678  chmod 777 /tomcat-users.xml
+  679  chmod 777 tomcat-users.xml/
+  680  cd  tomcat-users.xml/
+  681  cd  /tomcat-users.xml
+  682  cd ..
+  683  cd /
+  684  reboot
+  685  sudo chmod 777 tomcat-users.xml
+  686  sudo  nano /var/lib/tomcat8/conf/tomcat-users.xml
+  687  sudo systemctl restart tomcat8
+  688  sudo  chmod 777 tomcat8/
+  689  systemctl restart tomcat8
+  690  sudo chmod 777 java/
+  691  chmod 777 tomcat8/
+  692  sudo chmod 777 tomcat8/
+  693  sudo chmod 777 ROOT/
+  694  sudo chmod 777 root/
+  695  sudo chmod 777 ROOt/
+  696  chmod 777 conf/
+  697  sudo  chmod 777 conf/
+  698  sudo  chmod 777 lib/
+  699  sudo  chmod 777 logs/
+  700  sudo  chmod 777 webapps/
+  701  sudo  chmod 777 work/
+  702  chmod 777 web.xml/
+  703  sudo chmod 777 web.xml
+  704  history
+
+
+	>javac -d /var/lib/tomcat8/webapps/ROOT/WEB-INF/classes/ nameof the program -classpath /usr/share/java/servlet-api.jar ->enter then compile the program process and then we have
+to make change for 'web.xml ' file to register thr servelet
+*******
+ javac -d /var/lib/tomcat8/webapps/ROOT/WEB-INF/classes/ hello.java -classpath /usr/share/java/servlet-api.jar
+
+
+
+
+********
+
+
+
+
